@@ -3,8 +3,9 @@
 code-server --bind-addr 0.0.0.0:9090
 
 # cat /root/.config/code-server/config.yaml
-# sudo ufw allow 9090/tcp
-
+sudo ufw allow 9090/tcp
+sudo ufw allow 9090/tcp
+sudo ufw allow 9090/tcp
 
 # sudo nano /etc/systemd/system/myscript.service
 
