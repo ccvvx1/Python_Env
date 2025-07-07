@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
+  <diagram name="Page-1" id="Oxz-_GmWOxhW8vpJbgQr">
+    <mxGraphModel dx="1999" dy="1151" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wwWO6KwIdEZX1eMqostU-1" value="云手机极致版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwWO6KwIdEZX1eMqostU-2" value="云手机极致版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="711" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwWO6KwIdEZX1eMqostU-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwWO6KwIdEZX1eMqostU-1" target="wwWO6KwIdEZX1eMqostU-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="260" as="sourcePoint" />
+            <mxPoint x="38" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wwWO6KwIdEZX1eMqostU-5" value="云OS拨号盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwWO6KwIdEZX1eMqostU-6" value="云OS拨号盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299" y="711" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwWO6KwIdEZX1eMqostU-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wwWO6KwIdEZX1eMqostU-6" target="wwWO6KwIdEZX1eMqostU-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389" y="613" as="sourcePoint" />
+            <mxPoint x="439" y="563" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
