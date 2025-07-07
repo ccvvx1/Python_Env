@@ -1,31 +1,139 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="Oxz-_GmWOxhW8vpJbgQr">
-    <mxGraphModel dx="1999" dy="1151" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2565" dy="1001" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wwWO6KwIdEZX1eMqostU-1" value="云手机极致版" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="wwWO6KwIdEZX1eMqostU-1" value="云手机极致版APP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="102" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wwWO6KwIdEZX1eMqostU-2" value="云手机极致版" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="711" width="120" height="60" as="geometry" />
+        <mxCell id="wwWO6KwIdEZX1eMqostU-2" value="云手机极致版APP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="102" y="815" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wwWO6KwIdEZX1eMqostU-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wwWO6KwIdEZX1eMqostU-1" target="wwWO6KwIdEZX1eMqostU-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="260" as="sourcePoint" />
-            <mxPoint x="38" y="510" as="targetPoint" />
+            <mxPoint x="162" y="260" as="sourcePoint" />
+            <mxPoint x="90" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wwWO6KwIdEZX1eMqostU-5" value="云OS拨号盘" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="299" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="wwWO6KwIdEZX1eMqostU-5" value="云OS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="351" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wwWO6KwIdEZX1eMqostU-6" value="云OS拨号盘" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="299" y="711" width="120" height="60" as="geometry" />
+        <mxCell id="wwWO6KwIdEZX1eMqostU-6" value="云OS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="351" y="815" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wwWO6KwIdEZX1eMqostU-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="wwWO6KwIdEZX1eMqostU-6" target="wwWO6KwIdEZX1eMqostU-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="389" y="613" as="sourcePoint" />
-            <mxPoint x="439" y="563" as="targetPoint" />
+            <mxPoint x="441" y="613" as="sourcePoint" />
+            <mxPoint x="491" y="563" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-1" value="真机电话" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="636" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-2" value="真机电话" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="636" y="815" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="w7mcOkram3LHJH1xs-Zf-2" target="w7mcOkram3LHJH1xs-Zf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="685" y="301" as="sourcePoint" />
+            <mxPoint x="735" y="251" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="164" y="270" as="sourcePoint" />
+            <mxPoint x="411" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-5" value="点击云手机极致版进入云机" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w7mcOkram3LHJH1xs-Zf-4">
+          <mxGeometry x="0.0607" y="4" relative="1" as="geometry">
+            <mxPoint x="-64" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="411" y="285" as="sourcePoint" />
+            <mxPoint x="413" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="285" />
+              <mxPoint x="450" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-9" value="点击打开电话应用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w7mcOkram3LHJH1xs-Zf-6">
+          <mxGeometry x="-0.505" relative="1" as="geometry">
+            <mxPoint x="27" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="412" y="345" as="sourcePoint" />
+            <mxPoint x="414" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="451" y="345" />
+              <mxPoint x="451" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-12" value="输入对方手机号，点击拨号，弹窗选AI速记拨打" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w7mcOkram3LHJH1xs-Zf-11">
+          <mxGeometry x="-0.505" relative="1" as="geometry">
+            <mxPoint x="97" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="411" y="405" as="sourcePoint" />
+            <mxPoint x="166" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-14" value="选择AI速记后，云OS拨号盘发消息给极致版APP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w7mcOkram3LHJH1xs-Zf-13">
+          <mxGeometry x="0.682" y="-4" relative="1" as="geometry">
+            <mxPoint x="81" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="163" y="445" as="sourcePoint" />
+            <mxPoint x="165" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="202" y="445" />
+              <mxPoint x="202" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-16" value="APP收到消息后通过AI速记API请求获取速记ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w7mcOkram3LHJH1xs-Zf-15">
+          <mxGeometry x="-0.505" relative="1" as="geometry">
+            <mxPoint x="90" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-17" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;如果获取真机手机号码失败，&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;会获取不到速记ID&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-4" y="430" width="174" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="163" y="498" as="sourcePoint" />
+            <mxPoint x="165" y="523" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="202" y="498" />
+              <mxPoint x="202" y="523" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-19" value="AI速记开通成功后，判断拨打电话权限申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w7mcOkram3LHJH1xs-Zf-18">
+          <mxGeometry x="-0.505" relative="1" as="geometry">
+            <mxPoint x="82" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="549" as="sourcePoint" />
+            <mxPoint x="696" y="549" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7mcOkram3LHJH1xs-Zf-21" value="极致版APP拉起真机电话进行拨号处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w7mcOkram3LHJH1xs-Zf-20">
+          <mxGeometry x="-0.7265" y="-1" relative="1" as="geometry">
+            <mxPoint x="20" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
